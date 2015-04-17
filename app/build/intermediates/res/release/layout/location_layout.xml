@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sothree.slidinguppanel.SlidingUpPanelLayout
+    xmlns:sothree="http://schemas.android.com/apk/lib/com.sothree.slidinguppanel"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    sothree:id="@+id/slidepane"
+    android:id="@+id/sliding_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom"
+    sothree:dragView="@+id/dragView"
+    sothree:panelHeight="200dp"
+    sothree:paralaxOffset="300dp"
+    sothree:shadowHeight="4dp">
+
+    <LinearLayout
+        android:id="@+id/bottom_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:background="#FFF"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageview"
+            android:textSize="18sp"
+            android:textColor="#333"/>
+    </LinearLayout>
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/light_gray">
+    <ListView
+        android:id="@+id/list_location"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:animateLayoutChanges="true"
+        android:divider="@null"
+        android:dividerHeight="10dp"
+        android:fadeScrollbars="true"
+        android:smoothScrollbar="true"
+        android:layout_alignRight="@+id/mem_info_txt_id"
+        android:layout_alignEnd="@+id/mem_info_txt_id"
+        android:layout_below="@+id/mem_info_txt_id" />
+    </LinearLayout>
+    </com.sothree.slidinguppanel.SlidingUpPanelLayout>
+
+
+<!-- From: file:/Users/sushi/Documents/multimodal/QrCodeScan/app/src/main/res/layout/location_layout.xml -->

@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/SingleProfile"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bottom_gray_border"
+    android:orientation="horizontal">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:background="@color/orange">
+        <ImageView
+            android:id="@+id/mem_photo_img_id"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_margin="4dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="1dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/architecture" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/mem_info_txt_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:textSize="14sp"
+        android:layout_marginBottom="25dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:text="@string/info_architecture_info" />
+
+</LinearLayout>
+<!-- From: file:/Users/sushi/Documents/multimodal/QrCodeScan/app/src/main/res/layout/basic_architecture_layout.xml -->

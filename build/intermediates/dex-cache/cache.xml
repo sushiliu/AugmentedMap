@@ -16,46 +16,11 @@
         <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-cc36f4a73dfc84077849f9c40579dfef072dce0b.jar" />
     </item>
     <item
-        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/libs/commons-codec-1.4.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4216af16d38465bbab0f3dff8efa14204f7a399a">
-        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/commons-codec-1.4-c367da6379cb90cc9918cf5900660b9e47b3be5e.jar" />
-    </item>
-    <item
-        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
-        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-ebf4c28218277b95a81f09df188da07de3b9163d.jar" />
-    </item>
-    <item
         jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
         <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-18541ec194caa02a46910873cb79974cd506ca0d.jar" />
-    </item>
-    <item
-        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
-        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-cefb43886452decd097f9e8131a21c613d7a7b84.jar" />
-    </item>
-    <item
-        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/libs/commons-logging-1.1.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="5043bfebc3db072ed80fbd362e7caf00e885d8ae">
-        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/commons-logging-1.1.1-8d4c85e09dd304625df01a7b8aaf5cd021c44a17.jar" />
-    </item>
-    <item
-        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
-        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-ad0f1e7b7985326c5fa410794e29ab8a3926a4ef.jar" />
     </item>
     <item
         jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
@@ -72,27 +37,6 @@
         <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-23e62e05423f9f379748c613b783df7ea6daa73f.jar" />
     </item>
     <item
-        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
-        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-d321e8178a23b3659c25d14762044db5d27e3565.jar" />
-    </item>
-    <item
-        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
-        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-068e38ac9b03c871cc0f9dd384b4505eff586d46.jar" />
-    </item>
-    <item
-        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
-        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-59b5027d2cb608438bea7cf9027c9d68b3de4b3c.jar" />
-    </item>
-    <item
         jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -105,20 +49,6 @@
         revision="21.1.2"
         sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
         <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-240ea9d8d5f791a05c3006615cf84877ef621307.jar" />
-    </item>
-    <item
-        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
-        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-465ea24208b43e593e72c49ba433d5ff86536a40.jar" />
-    </item>
-    <item
-        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
-        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-4509834c4a8d9c60a8cce01bf19f7fcc67bc515d.jar" />
     </item>
     <item
         jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
@@ -149,18 +79,102 @@
         <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-cbdb34dd60fefe3054b417cee23167bdaeb033c5.jar" />
     </item>
     <item
-        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
-        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-9827c418077ddcb3b9dbc0c4d60fc2590cd35be8.jar" />
-    </item>
-    <item
         jar="/Users/sushi/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
         <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/library-2.4.0-a524d4b34feaffec6da0f44a7fed005daf312e7e.jar" />
+    </item>
+    <item
+        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-983eb3e00ece708b60e5ff17e42567edd9df4fdc.jar" />
+    </item>
+    <item
+        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/libs/jsoup-1.8.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/jsoup-1.8.1-e6693f220d2ac809bde1eb776eec6041b8743761.jar" />
+    </item>
+    <item
+        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/libs/commons-codec-1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4216af16d38465bbab0f3dff8efa14204f7a399a">
+        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/commons-codec-1.4-c367da6379cb90cc9918cf5900660b9e47b3be5e.jar" />
+    </item>
+    <item
+        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-ebf4c28218277b95a81f09df188da07de3b9163d.jar" />
+    </item>
+    <item
+        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-cefb43886452decd097f9e8131a21c613d7a7b84.jar" />
+    </item>
+    <item
+        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/libs/commons-logging-1.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5043bfebc3db072ed80fbd362e7caf00e885d8ae">
+        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/commons-logging-1.1.1-8d4c85e09dd304625df01a7b8aaf5cd021c44a17.jar" />
+    </item>
+    <item
+        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-ad0f1e7b7985326c5fa410794e29ab8a3926a4ef.jar" />
+    </item>
+    <item
+        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-d321e8178a23b3659c25d14762044db5d27e3565.jar" />
+    </item>
+    <item
+        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-068e38ac9b03c871cc0f9dd384b4505eff586d46.jar" />
+    </item>
+    <item
+        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-59b5027d2cb608438bea7cf9027c9d68b3de4b3c.jar" />
+    </item>
+    <item
+        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-465ea24208b43e593e72c49ba433d5ff86536a40.jar" />
+    </item>
+    <item
+        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-4509834c4a8d9c60a8cce01bf19f7fcc67bc515d.jar" />
+    </item>
+    <item
+        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-9827c418077ddcb3b9dbc0c4d60fc2590cd35be8.jar" />
     </item>
     <item
         jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
@@ -177,20 +191,6 @@
         <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/httpcore-4.1.4-2e718b9ad80066c4cd8b0b020a209f76960799fe.jar" />
     </item>
     <item
-        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
-        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/classes-983eb3e00ece708b60e5ff17e42567edd9df4fdc.jar" />
-    </item>
-    <item
-        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/libs/android-support-v4.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
-        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/android-support-v4-a75a53fe61278b34a168c7cd1906bcea859d88ac.jar" />
-    </item>
-    <item
         jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -203,13 +203,6 @@
         revision="21.1.2"
         sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
         <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-097b32fd45827570e9563da96462ca48ee759ec1.jar" />
-    </item>
-    <item
-        jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/libs/jsoup-1.8.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
-        <dex dex="/Users/sushi/Documents/multimodal/QrCodeScan/app/build/intermediates/pre-dexed/debug/jsoup-1.8.1-e6693f220d2ac809bde1eb776eec6041b8743761.jar" />
     </item>
     <item
         jar="/Users/sushi/Documents/multimodal/QrCodeScan/app/libs/httpclient-4.1.3.jar"
