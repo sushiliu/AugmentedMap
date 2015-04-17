@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/SingleProfile"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bottom_gray_border"
+    android:orientation="horizontal">
+    <TextView
+        android:id="@+id/mem_info_txt_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:textSize="14sp"
+        android:layout_marginBottom="25dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:text="@string/info_main_info" />
+
+
+</LinearLayout>
+<!-- From: file:/Users/sushi/Documents/multimodal/QrCodeScan/app/src/main/res/layout/basic_main_layout.xml -->

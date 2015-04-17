@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/eiffel_background"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/scanmap"
+        android:layout_width="220dp"
+        android:layout_height="@dimen/global_height"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="42dp"
+        android:background="@drawable/round_corner_rec"
+        android:textSize="@dimen/abc_action_bar_title_text_size"
+        android:gravity="center"
+        android:text="@string/scanMap"
+        android:textColor="#ffffff"
+        />
+
+    <Button
+        android:id="@+id/savedhistory"
+        android:layout_width="220dp"
+        android:layout_height="@dimen/global_height"
+        android:layout_alignLeft="@+id/scanmap"
+        android:layout_below="@+id/scanmap"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/round_corner_rec"
+        android:gravity="center"
+        android:textSize="@dimen/abc_action_bar_title_text_size"
+        android:text="@string/savedhistory"
+
+        android:textColor="#ffffff" />
+
+    <Button
+        android:id="@+id/whereami"
+        android:layout_width="220dp"
+        android:layout_height="@dimen/global_height"
+        android:layout_alignLeft="@+id/savedhistory"
+        android:layout_below="@+id/savedhistory"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/round_corner_rec"
+        android:gravity="center"
+        android:text="@string/whereami"
+        android:textColor="#ffffff"
+
+        android:textSize="@dimen/abc_action_bar_title_text_size"/>
+
+</RelativeLayout><!-- From: file:/Users/sushi/Documents/multimodal/QrCodeScan/app/src/main/res/layout/activity_home.xml -->

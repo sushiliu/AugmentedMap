@@ -1,0 +1,97 @@
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+
+<fragment
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/map"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    class="com.google.android.gms.maps.MapFragment"
+    android:layout_weight="0.53">
+
+</fragment>
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_centerHorizontal="true">
+        <TableRow
+            android:layout_marginTop="30dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/round_corner_rec">
+            <ImageButton
+                android:id="@+id/button1"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_margin="10dp"
+                android:text="station"
+                android:background="@drawable/station0">
+            </ImageButton>
+            <ImageButton
+                android:id="@+id/button2"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_margin="10dp"
+                android:text="station"
+                android:background="@drawable/museum0">
+            </ImageButton>
+            <ImageButton
+                android:id="@+id/button3"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_margin="10dp"
+                android:text="station"
+                android:background="@drawable/church0">
+            </ImageButton>
+            <ImageButton
+                android:id="@+id/button4"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_margin="10dp"
+                android:text="station"
+                android:background="@drawable/food0">
+            </ImageButton>
+            <ImageButton
+                android:id="@+id/button5"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_margin="10dp"
+                android:background = "@drawable/art0"
+                android:text="station">
+            </ImageButton>
+            <ImageButton
+                android:id="@+id/button6"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_margin="10dp"
+                android:text="station"
+                android:background="@drawable/bar0">
+            </ImageButton>
+        </TableRow>
+    </TableLayout>
+
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:background="@drawable/round_corner_rec"
+        android:textColor="@color/textcolor"
+        android:textSize="@dimen/abc_action_bar_title_text_size"
+        android:id="@+id/text"
+        android:layout_marginBottom="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"/>
+
+</RelativeLayout>
+

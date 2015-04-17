@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.sothree.slidinguppanel.SlidingUpPanelLayout
+    xmlns:sothree="http://schemas.android.com/apk/lib/com.sothree.slidinguppanel"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    sothree:id="@+id/slidepane"
+    android:id="@+id/sliding_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom"
+    sothree:dragView="@+id/dragView"
+    sothree:panelHeight="200dp"
+    sothree:paralaxOffset="300dp"
+    sothree:shadowHeight="4dp">
+
+    <LinearLayout
+        android:id="@+id/bottom_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:background="#FFF"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageview"
+            android:textSize="18sp"
+            android:textColor="#333"/>
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:background="#FFF"
+        android:orientation="vertical">
+        <fragment
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/map"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            class="com.google.android.gms.maps.MapFragment"
+            android:layout_weight="0.53">
+        </fragment>
+
+
+
+        <TableLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_alignTop="@+id/map">
+            <TableRow
+                android:layout_marginTop="30dp"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/round_corner_rec">
+                <ImageButton
+                    android:id="@+id/button1"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_margin="10dp"
+                    android:text="station"
+                    android:background="@drawable/station0">
+                </ImageButton>
+                <ImageButton
+                    android:id="@+id/button2"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_margin="10dp"
+                    android:text="station"
+                    android:background="@drawable/museum0">
+                </ImageButton>
+                <ImageButton
+                    android:id="@+id/button3"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_margin="10dp"
+                    android:text="station"
+                    android:background="@drawable/church0">
+                </ImageButton>
+                <ImageButton
+                    android:id="@+id/button4"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_margin="10dp"
+                    android:text="station"
+                    android:background="@drawable/food0">
+                </ImageButton>
+                <ImageButton
+                    android:id="@+id/button5"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_margin="10dp"
+                    android:background = "@drawable/art0"
+                    android:text="station">
+                </ImageButton>
+                <ImageButton
+                    android:id="@+id/button6"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_margin="10dp"
+                    android:text="station"
+                    android:background="@drawable/bar0">
+                </ImageButton>
+            </TableRow>
+        </TableLayout>
+
+
+    </RelativeLayout>
+
+
+</com.sothree.slidinguppanel.SlidingUpPanelLayout>
